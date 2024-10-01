@@ -1,6 +1,6 @@
-#CIT 114
-##Notes 8
-###Databases
+# CIT 114
+## Notes 8
+### Databases
 1. Summarize a few key points made in the readings or videos.
    - A database is a shared collection of related data used to support the activities of a particular organization.
      - A database management system (DBMS) is a collection of programs that enables users to create and maintain databases and control all access to them.
